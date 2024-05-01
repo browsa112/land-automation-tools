@@ -191,7 +191,7 @@ def go_through_rows():
         all_data[state][county]["1-2"]["on-market"] = df_1_2_sales.shape[0]
         all_data[state][county]["2-5"]["on-market"] = df_2_5_sales.shape[0] 
     
-        all_data[state][county]["5-10"]["on-market"] = df_point_25_1.shape[0]
+        all_data[state][county]["5-10"]["on-market"] = df_5_10_sales.shape[0]
         all_data[state][county]["10-20"]["on-market"] = df_10_20_sales.shape[0]
         all_data[state][county]["20-50"]["on-market"] = df_20_50_sales.shape[0] 
         all_data[state][county]["50+"]["on-market"] = df_50_plus_sales.shape[0]
