@@ -7,7 +7,7 @@ If the excel file has a missing lot size, it will be skipped. This might make it
 
 ## 1. Download the excel files sold (I normally select one year ago for sold, but any timeframe can be used) and on market data 
 ### They should appear in the downloads folder with a similar file name to the below files
-￼<img width="772" alt="Pasted Graphic 1" src="https://github.com/browsa112/land-automation-tools/assets/168380980/ec981b4d-8c85-4010-8f8c-77ba04ea901a">
+<img width="772" alt="Pasted Graphic 1" src="https://github.com/browsa112/land-automation-tools/assets/168380980/ec981b4d-8c85-4010-8f8c-77ba04ea901a">
 
 
 
@@ -16,12 +16,12 @@ If the excel file has a missing lot size, it will be skipped. This might make it
 
 Sold and on market/sale data for Stevens Washington  
 
-### Before 
-￼<img width="772" alt="Pasted Graphic" src="https://github.com/browsa112/land-automation-tools/assets/168380980/c48404e3-792c-4030-a0b3-989cb16d2a31">
+### Before:
+<img width="772" alt="Pasted Graphic" src="https://github.com/browsa112/land-automation-tools/assets/168380980/c48404e3-792c-4030-a0b3-989cb16d2a31">
 
 
-### After
-￼<img width="783" alt="Pasted Graphic 2" src="https://github.com/browsa112/land-automation-tools/assets/168380980/607c1f5e-8af2-4726-bd93-a8b43705575a">
+### After:
+<img width="783" alt="Pasted Graphic 2" src="https://github.com/browsa112/land-automation-tools/assets/168380980/607c1f5e-8af2-4726-bd93-a8b43705575a">
 
 
 ## 3. Put all the excel files into the same folder as the main.py folder (the folder name can be anything, I just used demo because it was the first name that came to mind)
