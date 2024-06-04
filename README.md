@@ -49,5 +49,5 @@ Ex.
 
 
 
-### 8. A new file name “new.xlsx” should appear with the data entered for each county
+### 8. A new file named “new.xlsx” should appear with the data entered for each county and state
 <img width="756" alt="May 27, 2024 at 939 PM" src="https://github.com/browsa112/land-automation-tools/assets/168380980/7671a3e0-c2a2-4822-b954-fe1724ae82f5">
